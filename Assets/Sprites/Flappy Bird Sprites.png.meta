@@ -839,10 +839,10 @@ TextureImporter:
       name: Flappy Bird Sprites_36
       rect:
         serializedVersion: 2
-        x: 153
-        y: 67
-        width: 95
-        height: 19
+        x: 152
+        y: 66
+        width: 96
+        height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
